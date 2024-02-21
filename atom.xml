@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>做工ê人</title>
+  
+  <subtitle>Hòng-sàng. 放送</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-02-21T12:48:00.779Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>做工ê人</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Kang-chok-sek siāu-kài 工作室紹介</title>
+    <link href="http://example.com/2023/11/16/Start/"/>
+    <id>http://example.com/2023/11/16/Start/</id>
+    <published>2023-11-15T18:24:34.935Z</published>
+    <updated>2024-02-21T12:48:00.779Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;做工á人工作室，真歡喜hâm各位朋友tī網路ê世界相會。&lt;/p&gt;
+&lt;p&gt;Goán是1 tīn真要意台語台文ê人，對台語有真深ê感情，tī chit-má這ê對台語，也tio̍h是咱Formosa chit粒島嶼本底ê共同語，去hō͘</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
